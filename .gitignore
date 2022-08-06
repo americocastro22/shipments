@@ -1,0 +1,13 @@
+.env
+
+# Django project
+*.sqlite3
+
+# Python
+__pycache__/
+*.egg-info/
+*.pyc
+/venv/
+
+# IDEA
+/.idea/
